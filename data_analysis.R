@@ -1,4 +1,4 @@
-#data analysis prelim
+#data analysis 
 #Hongying Yang 79202826
 setwd("~/Dropbox/course/statistics/data analysis prelim/Rcourse/data analysis prelim")
 #install.packages("nlme")
